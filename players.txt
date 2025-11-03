@@ -1,0 +1,7 @@
+3 1 Novak Djokovic Serbia 89 18
+1 7 Roger Federer Switzerland 91 14
+2 9 Rafael Nadal Spain 73 10
+6 8 Grigor Dimitrov Bulgaria 69 4
+4 11 Pete Sampras USA 60 3
+7 15 John McEnroe USA 58 2
+5 19 Bjorn Borg Sweden 38 1
